@@ -18,7 +18,7 @@
       text-align: center;
     }
     .hero {
-      background: url('images/hero-pokhara.jpg') center/cover no-repeat;
+      background: url('https://upload.wikimedia.org/wikipedia/commons/1/1a/Phewa_Lake_Pokhara_Nepal.jpg') center/cover no-repeat;
       height: 300px;
       color: white;
       display: flex;
@@ -71,12 +71,12 @@
   <section>
     <h2>Nature & Wildlife</h2>
     <div class="gallery">
-      <img src="images/phewa-lake.jpg" alt="Phewa Lake" data-aos="fade-up" />
-      <img src="images/machhapuchhre.jpg" alt="Machhapuchhre Mountain" data-aos="fade-up" />
-      <img src="images/world-peace-pagoda.jpg" alt="Peace Pagoda" data-aos="fade-up" />
-      <img src="images/bird-pokhara.jpg" alt="Bird in Pokhara" data-aos="fade-up" />
-      <img src="images/sunset-sarangkot.jpg" alt="Sunset from Sarangkot" data-aos="fade-up" />
-      <img src="images/wildlife-pokhara.jpg" alt="Wildlife in Pokhara" data-aos="fade-up" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Phewa_Lake_Pokhara_Nepal.jpg" alt="Phewa Lake" data-aos="fade-up" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/e/e2/Machapuchare.jpg" alt="Machhapuchhre Mountain" data-aos="fade-up" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/1/12/World_Peace_Pagoda%2C_Pokhara.jpg" alt="Peace Pagoda" data-aos="fade-up" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/1/13/Bird_Pokhara.jpg" alt="Bird in Pokhara" data-aos="fade-up" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Sarangkot_sunrise.jpg" alt="Sunset from Sarangkot" data-aos="fade-up" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Wildlife_Pokhara_Nepal.jpg" alt="Wildlife in Pokhara" data-aos="fade-up" />
     </div>
   </section>
 
