@@ -65,6 +65,9 @@
       <li>Davis Falls</li>
       <li>Sarangkot Sunrise</li>
       <li>Gupteshwor Mahadev Cave</li>
+      <li>Seti River Gorge</li>
+      <li>Suspension Bridges</li>
+      <li>Begnas Lake</li>
     </ul>
   </section>
 
@@ -77,11 +80,14 @@
       <img src="https://upload.wikimedia.org/wikipedia/commons/1/13/Bird_Pokhara.jpg" alt="Bird in Pokhara" data-aos="fade-up" />
       <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Sarangkot_sunrise.jpg" alt="Sunset from Sarangkot" data-aos="fade-up" />
       <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Wildlife_Pokhara_Nepal.jpg" alt="Wildlife in Pokhara" data-aos="fade-up" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Seti_Gorge_Pokhara.jpg" alt="Seti River Gorge" data-aos="fade-up" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Suspension_bridge_Pokhara.jpg" alt="Suspension Bridge" data-aos="fade-up" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Begnas_Lake%2C_Pokhara.jpg" alt="Begnas Lake" data-aos="fade-up" />
     </div>
   </section>
 
   <footer>
-    &copy; 2025 Pokhara Tourism | Made with ❤️
+    &copy; 2025 Pokhara The WondrLand | Made with ❤️
   </footer>
 
   <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
